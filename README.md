@@ -39,7 +39,7 @@ wget -O uot.sh https://ghproxy.net/https://raw.githubusercontent.com/starshine36
 部署完成后，在任意目录下输入以下命令即可呼出控制台：
 
 ```bash
-uot-forward.sh
+uot
 ```
 
 *(注意：初次运行脚本会自动安装 `dialog` 依赖以支撑图形化界面。)*
