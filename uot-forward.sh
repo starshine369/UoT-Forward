@@ -2,10 +2,11 @@
 #
 # UoT-Forward - 基于 Phantun 的 UDP-over-TCP 隧道穿透面板
 # 仓库地址: https://github.com/starshine369/UoT-Forward
+# 全局快捷命令: sudo uot
 #
 set -euo pipefail
 
-readonly SCRIPT_VERSION="1.1.0"
+readonly SCRIPT_VERSION="1.1.1"
 readonly PHANTUN_VERSION="v0.8.1"
 readonly PHANTUN_SHA256_AMD64="8a7e143db2eb06ad8969bbafd8dcaedd5483b7f3683090865074872e0938e14a"
 readonly INSTALL_DIR="/usr/local/bin"
